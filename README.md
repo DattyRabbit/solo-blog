@@ -1,4 +1,4 @@
-<p align="center"><img alt="DattyRabbit 的个人博客" src="https://img.hacpai.com/avatar/1562726679256?imageView2/1/w/128/h/128/interlace/0/q/100"></p><h2 align="center">
+<p align="center"><img alt="DattyRabbit 的个人博客" src="https://b3logfile.com/file/2020/08/fav-c63f5aa8.png"></p><h2 align="center">
 DattyRabbit 的个人博客
 </h2>
 
