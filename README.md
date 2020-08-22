@@ -11,6 +11,8 @@ DattyRabbit 的个人博客
 ### 最新
 
 * [我在 GitHub 上的开源项目](https://www.dattyrabbit.cn/my-github-repos)
+* [《程序员的算法趣题》-开坑记录](https://www.dattyrabbit.cn/articles/2020/08/16/1597576674555.html)
+* [程序员的算法趣题系列-Q01-回文数](https://www.dattyrabbit.cn/articles/2020/08/16/1597576348713.html)
 * [solo个人博客搭建（支持https）](https://www.dattyrabbit.cn/articles/2020/08/16/1597562400409.html)
 * [日本语能力考试(jlpt)计分解析](https://www.dattyrabbit.cn/articles/2020/08/15/1597479171417.html)
 * [天天打波利橙宠洗急效模拟器！](https://www.dattyrabbit.cn/articles/2020/08/14/1597419465852.html)
