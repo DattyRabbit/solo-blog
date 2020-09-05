@@ -10,6 +10,7 @@ DattyRabbit 的个人博客
 
 ### 最新
 
+* [程序员的算法趣题系列-Q02-数列的四则运算](https://www.dattyrabbit.cn/articles/2020/09/05/1599279801264.html)
 * [我在 GitHub 上的开源项目](https://www.dattyrabbit.cn/my-github-repos)
 * [《程序员的算法趣题》-开坑记录](https://www.dattyrabbit.cn/articles/2020/08/16/1597576674555.html)
 * [程序员的算法趣题系列-Q01-回文数](https://www.dattyrabbit.cn/articles/2020/08/16/1597576348713.html)
