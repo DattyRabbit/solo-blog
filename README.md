@@ -10,6 +10,7 @@ DattyRabbit 的个人博客
 
 ### 最新
 
+* [《程序员的算法趣题》-Q5-还在用现金支付吗](https://www.dattyrabbit.cn/articles/2020/10/01/1601561813239.html)
 * [《程序员的算法趣题》-Q4-切分木棒](https://www.dattyrabbit.cn/articles/2020/09/27/1601187024923.html)
 * [shakinn](https://www.dattyrabbit.cn/articles/2020/09/14/1600064420036.html)
 * [我的程序转行之路](https://www.dattyrabbit.cn/articles/2020/09/10/1599750450369.html)
