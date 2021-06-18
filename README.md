@@ -10,6 +10,7 @@ DattyRabbit 的个人博客
 
 ### 最新
 
+* [域名更换记录](http://localhost/articles/2021/06/17/1623911742121.html)
 * [《程序员的算法趣题》-Q5-还在用现金支付吗](http://localhost/articles/2020/10/01/1601561813239.html)
 * [《程序员的算法趣题》-Q4-切分木棒](http://localhost/articles/2020/09/27/1601187024923.html)
 * [shakinn](http://localhost/articles/2020/09/14/1600064420036.html)
